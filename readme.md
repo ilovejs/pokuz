@@ -1,6 +1,8 @@
-##
+Pokuz
 
-Update for new api returns for Pocket API
+## Contributions:
+
+* Update poku python package for new Pocket API
 
 ## Get AccessToken and ConsumerKey
 1. https://getpocket.com/developer/apps/
