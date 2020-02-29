@@ -51,7 +51,8 @@ https://chrome.google.com/webstore/detail/bukubrow/ghniladkapjacfajiooekgkfopkjb
 
 2. Chrome browser native messaging for connecting CLI and Chrome
 https://github.com/SamHH/bukubrow-host
-bukubrow --install-chrome
+
+    bukubrow --install-chrome
 
 ## Based on 
 
