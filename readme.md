@@ -43,6 +43,16 @@ p.s.
 
     python setup.py sdist
 
+## Work best with
+
+1. Chrome extension: Bukubrow
+https://chrome.google.com/webstore/detail/bukubrow/ghniladkapjacfajiooekgkfopkjblpn?hl=en
+
+
+2. Chrome browser native messaging for connecting CLI and Chrome
+https://github.com/SamHH/bukubrow-host
+bukubrow --install-chrome
+
 ## Based on 
 
 (poku)
