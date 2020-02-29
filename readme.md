@@ -1,4 +1,6 @@
-Pokuz
+# Pokuz
+
+For people want to hack on awesome Buku bookmark CLI and Pocket !!
 
 ## Contributions:
 
