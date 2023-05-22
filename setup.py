@@ -8,7 +8,7 @@ with open('README.md') as readme_file:
 
 requirements = [
     'buku==4.1',
-    'requests==2.21.0',
+    'requests==2.31.0',
     'ConfigArgParse==0.14.0'
 ]
 
